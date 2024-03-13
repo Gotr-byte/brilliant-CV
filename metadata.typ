@@ -1,18 +1,18 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Piotr"
 
-#let lastName = "Doeowski"
+#let lastName = "Biedermann"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "https://github.com/Gotr-byte/",
+  phone: "+48 508015628",
+  email: "piotr.biedermann.jobs@gmail.com",
+  linkedin: "https://www.linkedin.com/in/piotr-biedermann-4aba0b1b0/",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),
   //gitlab: "mintyfrankie",
-  //homepage: "jd.me.org",
+  homepage: "https://registry.jsonresume.org/Gotr-byte",
   //orcid: "0000-0000-0000-0000",
   //researchgate: "John-Doe",
   //extraInfo: "",
@@ -22,16 +22,15 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
-  "en": [Experienced Data Analyst looking for a full time job starting from now],
-  "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
-  "zh": [具有丰富经验的数据分析师，随时可入职]
+  "": [Aspiring Web Developer],
+  "en": [Aspiring Web Developer],
+  "fr": [Angehender Webentwickler]
 )
 
 #let cvFooterInternational = (
   "": "Curriculum vitae",
   "en": "Curriculum vitae",
-  "fr": "Résumé",
+  "fr": "Lebenslauf",
   "zh": "简历"
 )
 
@@ -52,7 +51,7 @@
 /* Layout Setting */
 #let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
 
-#let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
+#let profilePhoto = "../src/piotr_biedermann.jpg" // Leave blank if profil photo is not needed
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 

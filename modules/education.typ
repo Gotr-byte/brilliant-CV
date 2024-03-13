@@ -3,25 +3,37 @@
 #cvSection("Education")
 
 #cvEntry(
-    title: [Master the Universe(unfinished)],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    title: [42],
+    society: [42, Wolfsburg],
+    date: [2022 - 2024],
+    location: [DE],
+    logo: "../src/logos/42_logo.jpg",
     description: list(
-      [Thesis: Predicting Customer Churn in Telecommunications Industry using Machine Learning Algorithms and Network Analysis],
-      [Course: Big Data Systems and Technologies #hBar() Data Mining and Exploration #hBar() Natural Language Processing]
+      [Thesis: 4242],
+      [Course: Project based peer learning]
     )
 )
 
 #cvEntry(
-    title: [Bachelors of Science in Computer Science],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    title: [Masters in Embedded System(unfinished)],
+    society: [Poznan University of Technology, Poznan],
+    date: [2009 - 2011],
+    location: [PL],
+    logo: "../src/logos/put_logo.png",
     description: list(
-      [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-      [Course: Database Systems #hBar() Computer Networks #hBar() Software Engineering #hBar() Artificial Intelligence]
+      [Thesis: 424242],
+      [Course: 42 #hBar() 42 #hBar() 42 #hBar() 42]
+    )
+)
+
+#cvEntry(
+    title: [Bachelor in Automation and Managment],
+    society: [Poznan University of Technology, Poznan],
+    date: [2006 - 2009],
+    location: [PL],
+    logo: "../src/logos/put_logo.png",
+    description: list(
+      [Thesis: Model of Automated Storage Facility],
+      [Course: 42 #hBar() 42 #hBar() 42 #hBar() 42]
     )
 )
