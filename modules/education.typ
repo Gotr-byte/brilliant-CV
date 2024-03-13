@@ -3,7 +3,7 @@
 #cvSection("Education")
 
 #cvEntry(
-    title: [Master of Data Science],
+    title: [Master the Universe(unfinished)],
     society: [University of California, Los Angeles],
     date: [2018 - 2020],
     location: [USA],

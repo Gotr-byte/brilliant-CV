@@ -3,7 +3,7 @@
 /* Personal Information */
 #let firstName = "John"
 
-#let lastName = "Doe"
+#let lastName = "Doeowski"
 
 #let personalInfo = (
   github: "mintyfrankie",
