@@ -19,11 +19,7 @@
     society: [Poznan University of Technology, Poznan],
     date: [2009 - 2011],
     location: [PL],
-    logo: "../src/logos/put_logo.png",
-/*    description: list(
-      [Thesis: 424242],
-      [Course: 42 #hBar() 42 #hBar() 42 #hBar() 42]
-    )*/
+    logo: "../src/logos/put_logo.png"
 )
 
 #cvEntry(
