@@ -20,10 +20,10 @@
     date: [2009 - 2011],
     location: [PL],
     logo: "../src/logos/put_logo.png",
-    description: list(
+/*    description: list(
       [Thesis: 424242],
       [Course: 42 #hBar() 42 #hBar() 42 #hBar() 42]
-    )
+    )*/
 )
 
 #cvEntry(
