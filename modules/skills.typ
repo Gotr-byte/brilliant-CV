@@ -4,12 +4,12 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() French #hBar() Chinese]
+  info: [English C1 #hBar() German B2 #hBar() Polish Native]
 )
 
 #cvSkill(
   type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL]
+  info: [C/C++ #hBar() Arduino #hBar() Git #hBar() Docker #hBar() Bash #hBar() React #hBar() PostgreSQL]
 )
 
 #cvSkill(

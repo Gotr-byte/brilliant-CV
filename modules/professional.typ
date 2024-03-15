@@ -28,13 +28,10 @@
       ["Analysis of product and service records - feedback-loop with the manufacturer, briefing of customers on usage of product."],
       ["Managing e-marketing on facebook."],
       ["Working with service data in order to provide feedback to supplier"],
-      ["Managing the client “Żabka Polska” (convenience store chain)."],
       ["Handling and collaborating with sub-contractors."]
     ),
     tags: ("Entrepreneurship", "Product Management", "E-Commerce", "Marketing")
 )
-
-
 
 #cvEntry(
     title: [Rerfigeration and air conditioning repair],
@@ -43,9 +40,11 @@
     date: [2011],
     location: [Poznan],
     description: list(
-      ["Onsite repair and maintenance"]
+      ["Onsite repair and maintenance"],
+      ["Programming controllers"],
+      ["Assiting with monitoring setup"]
     ),
-    tags: ("Refrigeration", "Repair")
+    tags: ("Refrigeration", "Air conditioning")
 )
 
 #cvEntry(
@@ -57,19 +56,20 @@
     description: list(
       ["Dispatching service and maintenance"],
       ["Writing service offers to clients"],
-      ["Data entry to"]
+      ["Data entry"]
     ),
     tags: ("Excel", "Office processes")
 )
 
 #cvEntry(
-    title: [Electrical switchboard assembly worker],
+    title: [Crafting electrical switchboard boxes],
     society: [C&K System],
     logo: "",
     date: [summer 2008],
     location: [Poznan],
     description: list(
+      ["Reading electrical schematics"],
       ["Assembing switchboxes based on electrical schematics"]
     ),
-    tags: ("Workshop", "Electrical schematics")
+    tags: ("Workshop", "Electrical Schematics")
 )

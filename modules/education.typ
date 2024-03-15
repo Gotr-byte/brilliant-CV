@@ -8,8 +8,7 @@
     location: [DE],
     logo: "../src/logos/42_logo.jpg",
     description: list(
-      [Thesis: 4242],
-      [Course: Project based peer learning]
+      [Project based peer learning]
     )
 )
 
@@ -29,6 +28,5 @@
     logo: "../src/logos/put_logo.png",
     description: list(
       [Thesis: Model of Automated Storage Facility],
-      [Course: 42 #hBar() 42 #hBar() 42 #hBar() 42]
     )
 )
