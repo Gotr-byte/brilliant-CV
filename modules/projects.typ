@@ -7,9 +7,9 @@
   date: [In progress],
   location: [Wolfsburg, DE],
   description: list(
-    ["Working on presentations"],
-    ["Technologies used: Raspberry Pi, Nybble, RoboMaster"]
-  )
+    ["Working on presentations"]
+  ),
+  tags: ("Raspberry Pi", "Nybble", "RoboMaster")
 )
 
 #cvEntry(
@@ -17,9 +17,9 @@
   date: [2024-february],
   location: [Wolfsburg, DE],
   description: list(
-    ["A docker project where we upload LEMP stack website in separate containers built from custom Dockerfiles."],
-    ["Focused on Docker, LEMP stack, Bash"]
-  )
+    ["A docker project where we upload LEMP stack website in separate containers built from custom Dockerfiles."]
+  ),
+  tags: ("Docker", "LEMP stack", "Bash")
 )
 
 #cvEntry(
@@ -27,9 +27,8 @@
   date: [2023-December],
   location: [Wolfsburg, DE],
   description: list(
-    ["Contributed a chess demo and physics for a custom graphics engine"],
-    ["Technologies used: ]
-  )
+    ["Contributed a chess demo and physics for a custom graphics engine"]
+  ),
   tags: ("CLion", "Cmake", "C++", "OpenGL")
 )
 
@@ -38,9 +37,9 @@
   date: [2023-December],
   location: [Wolfsburg, DE],
   description: list(
-    ["Single page application featuring a chat, two factor and third party authentication, a game complete with a user leaderboard, achievements."],
-    ["Technologies used: React, Typescript, Docker, SocketIO, PostgreSQL, Postman, Agile methodology"]
-  )
+    ["Single page application featuring a chat, two factor and third party authentication, a game complete with a user leaderboard, achievements."]
+  ),
+  tags: ("React", "Typescript", "Docker", "SocketIO", "PostgreSQL", "Postman", "Agile methodology")
 )
 
 #cvEntry(
@@ -48,9 +47,9 @@
   date: [2023-August],
   location: [Wolfsburg, DE],
   description: list(
-    ["HTTP web server in C++, handles GET, POST, and DELETE requests, features CGI, file upload/download."],
-    ["Skills demonstrated: C++, Network programming"]
-  )
+    ["HTTP web server in C++, handles GET, POST, and DELETE requests, features CGI, file upload/download."]
+  ),
+  tags: ("C++", "Network programming")
 )
 
 #cvEntry(
@@ -58,9 +57,9 @@
   date: [2023-June],
   location: [Wolfsburg, DE],
   description: list(
-    ["Series of exercises, covering a variety of topics like Exceptions, Inheritance, implementing Merge-Insert sorting Algorithm."],
-    ["Technologies and concepts: C++, OOP, STL containers"]
-  )
+    ["Series of exercises, covering a variety of topics like Exceptions, Inheritance, implementing Merge-Insert sorting Algorithm."]
+  ),
+  tags: ("C++", "OOP", "STL containers")
 )
 
 #cvEntry(
@@ -68,9 +67,9 @@
   date: [2023-April],
   location: [Wolfsburg, DE],
   description: list(
-    ["Program solves Dijkstra's philosophers problem using threads in C."],
-    ["Highlighted technologies: C, Threads"]
-  )
+    ["Program solves Dijkstra's philosophers problem using threads in C."]
+  ),
+  tags: ("C", "Threads")
 )
 
 #cvEntry(
@@ -78,9 +77,9 @@
   date: [2023-february],
   location: [Wolfsburg, DE],
   description: list(
-    ["Ray tracer project that involves comprehensive use of C and linear algebra to simulate light rendering."],
-    ["Highlighted technologies: C, Linear Algebra"]
-  )
+    ["Ray tracer project that involves comprehensive use of C and linear algebra to simulate light rendering."]
+  ),
+  tags: ("C", "Linear Algebra")
 )
 
 #cvEntry(
@@ -88,9 +87,9 @@
   date: [2023-January],
   location: [Wolfsburg, DE],
   description: list(
-    ["Clone of a shell, implementing basic shell operations and commands, using C."],
-    ["Skills demonstrated: C, Bash"]
-  )
+    ["Clone of a shell, implementing basic shell operations and commands, using C."]
+  ),
+  tags: ("C", "Bash")
 )
 
 #cvEntry(
@@ -98,9 +97,9 @@
   date: [2022-August],
   location: [Wolfsburg, DE],
   description: list(
-    ["Sorting two stacks with the help of radix sort, showcasing efficient algorithm design and implementation."],
-    ["Technologies used: C, Algorithms"]
-  )
+    ["Sorting two stacks with the help of radix sort, showcasing efficient algorithm design and implementation."]
+  ),
+  tags: ("C", "Algorithms")
 )
 
 #cvEntry(
@@ -108,9 +107,9 @@
   date: [2022-July],
   location: [Wolfsburg, DE],
   description: list(
-    ["Simulates the pipe mechanism in UNIX systems, executing two commands and connecting them with a pipe."],
-    ["Highlighted technologies: C"]
-  )
+    ["Simulates the pipe mechanism in UNIX systems, executing two commands and connecting them with a pipe."]
+  ),
+  tags: ("C")
 )
 
 #cvEntry(
@@ -118,19 +117,19 @@
   date: [2022-June],
   location: [Wolfsburg, DE],
   description: list(
-    ["Game using minilibx library, implemented depth search and error checking for game logic."],
-    ["Skills demonstrated: C"]
-  )
+    ["Game using minilibx library, implemented depth search and error checking for game logic."]
+  ),
+  tags: ("C")
 )
-
+#pagebreak()
 #cvEntry(
   title: [Printf],
   date: [2022-May],
   location: [Wolfsburg, DE],
   description: list(
-    ["Recreated the printf function using variadic functions, demonstrating understanding of low-level programming in C."],
-    ["Skills demonstrated: C"]
-  )
+    ["Recreated the printf function using variadic functions, demonstrating understanding of low-level programming in C."]
+  ),
+  tags: ("C")
 )
 
 #cvEntry(
@@ -138,7 +137,7 @@
   date: [2022-April],
   location: [Wolfsburg, DE],
   description: list(
-    ["Recreated library of basic functions, which is a foundational project for future C projects, showcasing proficiency in C programming."],
-    ["Highlighted technologies: C, Makefile"]
-  )
+    ["Recreated library of basic functions"]
+  ),
+  tags: ("C")
 )

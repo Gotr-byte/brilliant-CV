@@ -6,7 +6,6 @@
   #autoImport("professional")
   #pagebreak()
   #autoImport("projects")
-  #pagebreak()
   #autoImport("awards")
   #autoImport("skills")
 #cvFooter()

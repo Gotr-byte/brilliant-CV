@@ -22,8 +22,8 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Aspiring Web Developer],
-  "en": [Aspiring Web Developer],
+  "": [Aspiring Software Engineer],
+  "en": [Aspiring Software Engineer],
   "fr": [Angehender Webentwickler]
 )
 
