@@ -45,7 +45,7 @@
     description: list(
       ["Onsite repair and maintenance of refrigeration devices"]
     ),
-    tags: ("On-site repair")
+    tags: ("refrigeration")
 )
 
 #cvEntry(
@@ -63,7 +63,7 @@
 )
 
 #cvEntry(
-    title: [Electrical assembler],
+    title: [Electrical switchboard assembly worker],
     society: [C&K System],
     logo: "",
     date: [summer 2008],
