@@ -3,7 +3,6 @@
 #cvSection("Education")
 
 #cvEntry(
-    title: [42],
     society: [42, Wolfsburg],
     date: [2022 - 2024],
     location: [DE],

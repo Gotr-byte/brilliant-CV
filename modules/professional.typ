@@ -3,37 +3,73 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-    title: [Director of Data Science],
-    society: [XYZ Corporation],
-    logo: "../src/logos/tc_serwis_logo.jpeg",
-    date: [2020 - Present],
-    location: [San Francisco, CA],
+    title: [Product Owner],
+    society: [TC Serwis],
+    logo: "",
+    date: [2018-11-20 - 2022-02-01],
+    location: [Warsaw],
     description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
+      ["Product owner for in-house software enhancing service and maintenance, managed service for 1200 convenience store sites across Poland"],
+      ["Implemented Agile methodologies", "Used Trello for project management"]
     ),
-    tags: ("Tags Example here", "Dataiku", "Snowflake", "SparkSQL")
+    tags: ("Agile", "Project Management", "Software Development")
 )
 
 #cvEntry(
-    title: [Data Analyst],
-    society: [ABC Company],
-    logo: "../src/logos/tc_serwis_logo.jpeg",
-    date: [2017 - 2020],
-    location: [New York, NY],
+    title: [Founder],
+    society: [TC Serwis],
+    logo: "",
+    date: [2011-11-20 - 2022-02-01],
+    location: [Warsaw],
     description: list(
-      [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
-      [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
-    )
+      ["Running refrigeration and air conditioning providing company"],
+      ["Product owner for service management software in collaboration with a team of programmers (writing and accounting for tickets, goal setting)."],
+      ["E-Commerce - managing product placement, SEO, content creation."],
+      ["Analysis of product and service records - feedback-loop with the manufacturer, briefing of customers on usage of product."],
+      ["Managing e-marketing on facebook."],
+      ["Working with service data in order to provide feedback to supplier"],
+      ["Managing the client “Żabka Polska” (convenience store chain)."],
+      ["Handling and collaborating with sub-contractors."]
+    ),
+    tags: ("Entrepreneurship", "Product Management", "E-Commerce", "Marketing")
+)
+
+
+
+#cvEntry(
+    title: [Rerfigeration and air conditioning repair],
+    society: [C&K System],
+    logo: "",
+    date: [2011],
+    location: [Poznan],
+    description: list(
+      ["Onsite repair and maintenance of refrigeration devices"]
+    ),
+    tags: ("On-site repair")
 )
 
 #cvEntry(
-    title: [Data Analysis Intern],
-    society: [PQR Corporation],
-    logo: "../src/logos/tc_serwis_logo.jpeg",
-    date: [Summer 2017],
-    location: [Chicago, IL],
+    title: [Service and maintenance dispatch],
+    society: [C&K System],
+    logo: "",
+    date: [2010],
+    location: [Poznan],
     description: list(
-      [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
-    )
+      ["Dispatching service and maintenance"],
+      ["Writing service offers to clients"],
+      ["Data entry to"]
+    ),
+    tags: ("Excel", "Office processes")
+)
+
+#cvEntry(
+    title: [Electrical assembler],
+    society: [C&K System],
+    logo: "",
+    date: [summer 2008],
+    location: [Poznan],
+    description: list(
+      ["Assembing switchboxes based on electrical schematics"]
+    ),
+    tags: ("Workshop", "Electrical schematics")
 )
