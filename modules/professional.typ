@@ -45,7 +45,7 @@
     description: list(
       ["Onsite repair and maintenance"]
     ),
-    tags: ("Refrigeration")
+    tags: ("Refrigeration", "Repair")
 )
 
 #cvEntry(
