@@ -43,9 +43,9 @@
     date: [2011],
     location: [Poznan],
     description: list(
-      ["Onsite repair and maintenance of refrigeration devices"]
+      ["Onsite repair and maintenance"]
     ),
-    tags: ("refrigeration")
+    tags: ("Refrigeration")
 )
 
 #cvEntry(
