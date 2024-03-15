@@ -14,5 +14,5 @@
 
 #cvSkill(
   type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading]
+  info: [Board games #hBar()DnD #hBar() Swimming #hBar() Cooking #hBar() Reading]
 )

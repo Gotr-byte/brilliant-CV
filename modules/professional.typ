@@ -9,8 +9,10 @@
     date: [2018-11-20 - 2022-02-01],
     location: [Warsaw],
     description: list(
-      ["Product owner for in-house software enhancing service and maintenance, managed service for 1200 convenience store sites across Poland"],
-      ["Implemented Agile methodologies", "Used Trello for project management"]
+      
+      ["Product owner for in-house software."],
+      ["The software assisted with managing repair and maintenance on over 1200 convienience store locations."],
+      ["Implemented Agile methodologies to work with a team of programmers."]
     ),
     tags: ("Agile", "Project Management", "Software Development")
 )
@@ -23,7 +25,6 @@
     location: [Warsaw],
     description: list(
       ["Running refrigeration and air conditioning providing company"],
-      ["Product owner for service management software in collaboration with a team of programmers (writing and accounting for tickets, goal setting)."],
       ["E-Commerce - managing product placement, SEO, content creation."],
       ["Analysis of product and service records - feedback-loop with the manufacturer, briefing of customers on usage of product."],
       ["Managing e-marketing on facebook."],
@@ -69,7 +70,7 @@
     location: [Poznan],
     description: list(
       ["Reading electrical schematics"],
-      ["Assembing switchboxes based on electrical schematics"]
+      ["Assembing switchboxes"]
     ),
     tags: ("Workshop", "Electrical Schematics")
 )

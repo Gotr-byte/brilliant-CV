@@ -3,6 +3,16 @@
 #cvSection("Projects & Associations")
 
 #cvEntry(
+  title: [Robotics Club],
+  date: [In progress],
+  location: [Wolfsburg, DE],
+  description: list(
+    ["Working on presentations"],
+    ["Technologies used: Raspberry Pi, Nybble, RoboMaster"]
+  )
+)
+
+#cvEntry(
   title: [Inception],
   date: [2024-february],
   location: [Wolfsburg, DE],
@@ -13,23 +23,14 @@
 )
 
 #cvEntry(
-  title: [Robotics Club],
-  date: [2023-Currently],
-  location: [Wolfsburg, DE],
-  description: list(
-    ["Working on presentations"],
-    ["Technologies used: Raspberry Pi, Nybble, RoboMaster"]
-  )
-)
-
-#cvEntry(
   title: [Wire Engine],
   date: [2023-December],
   location: [Wolfsburg, DE],
   description: list(
     ["Contributed a chess demo and physics for a custom graphics engine"],
-    ["Technologies used: CLion, Cmake, C++, OpenGL"]
+    ["Technologies used: ]
   )
+  tags: ("CLion", "Cmake", "C++", "OpenGL")
 )
 
 #cvEntry(
